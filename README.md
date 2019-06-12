@@ -1,2 +1,2 @@
 # hello-world
-Learning 
+Hi! My name is Danielle. I love to code.
